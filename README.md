@@ -32,7 +32,7 @@ Each best practice includes code samples in multiple programming languages (Type
 1. Clone the repository:
 
    ```bash
-   git clone https://github.tools.sap/btp-ai-best-practices/sap-btp-ai-best-practices.git
+   git clone https://github.com/SAP-samples/sap-btp-ai-best-practices.git
    cd sap-btp-ai-best-practices
    ```
 
